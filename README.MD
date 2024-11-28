@@ -1,4 +1,4 @@
-# Server REST - Testes Automatizados com Postman e Newman
+# Server REST - Testes de API com Postman e Newman
 
 Este repositório contém um projeto de testes automatizados para um servidor REST, desenvolvido utilizando o [Postman](https://www.postman.com/) e o [Newman](https://www.npmjs.com/package/newman).
 
